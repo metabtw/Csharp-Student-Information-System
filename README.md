@@ -7,6 +7,7 @@ This project is a Windows Forms application that aims to develop a student infor
 
 
 **Features:**
+
 View and Update Student Information:
 Current students' information can be updated through the system.
 
@@ -40,3 +41,45 @@ Students who want to practice in software development and database integration
 Clone the project to your computer and configure your SQL Server database.
 Run the application to view, update, delete, add and search student information.
 Create the permission document of the selected student with the Print button.
+
+**Türkçe Açıklama**
+
+**Proje Açıklaması:**
+Bu proje, bir öğrenci bilgi sistemi geliştirmeyi amaçlayan bir Windows Forms uygulamasıdır. Uygulama, SQL Server veritabanıyla entegre çalışarak öğrencilerin bilgilerini yönetmek için temel işlevler sunmaktadır. Kullanıcı dostu arayüzü sayesinde veritabanı işlemlerini kolayca gerçekleştirebilirsiniz.
+
+
+**Özellikler:**
+
+Öğrenci Bilgilerini Görüntüleme ve Güncelleme:
+Mevcut öğrencilerin bilgileri sistem üzerinden güncellenebilir.
+
+
+Öğrenci Silme:
+Sistemden bir öğrenciyi tamamen kaldırabilirsiniz.
+
+
+Yeni Öğrenci Ekleme:
+Yeni öğrencileri sisteme kaydetmek kolay ve hızlıdır.
+
+
+Öğrenci Arama:
+Öğrenci numarasına göre belirli bir öğrenciyi arama özelliği bulunmaktadır.
+
+
+İzin Yazdırma:
+Yazdır butonu sayesinde bir öğrenciye ait izin belgesini hızlıca oluşturabilirsiniz.
+
+
+**Projenin Amacı:**
+Bu proje, öğrenci bilgilerini düzenli bir şekilde saklama ve yönetme ihtiyacını karşılamaktadır. Yazılım geliştiricilerin veritabanı işlemlerini öğrenmesini ve gerçek hayatta kullanılabilecek bir bilgi sistemi geliştirme deneyimi kazanmasını sağlamayı hedefler.
+
+
+**Hedef Kullanıcılar:**
+Eğitim kurumları için temel bir öğrenci bilgi sistemi ihtiyacı olanlar
+Yazılım geliştirme ve veritabanı entegrasyonunda pratik yapmak isteyen öğrenciler
+
+
+**Kullanım Adımları:**
+Projeyi bilgisayarınıza klonlayın ve SQL Server veritabanınızı yapılandırın.
+Öğrenci bilgilerini görüntülemek, güncellemek, silmek, eklemek ve aramak için uygulamayı çalıştırın.
+Yazdır butonu ile seçili öğrencinin izin belgesini oluşturun.
