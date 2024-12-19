@@ -1,0 +1,84 @@
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\databaseprc\databaseprc\bin\Debug\databaseprc.exe.config
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\databaseprc\databaseprc\bin\Debug\databaseprc.exe
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\databaseprc\databaseprc\bin\Debug\databaseprc.pdb
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\databaseprc\databaseprc\obj\Debug\databaseprc.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\databaseprc\databaseprc\obj\Debug\databaseprc.Form1.resources
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\databaseprc\databaseprc\obj\Debug\databaseprc.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\databaseprc\databaseprc\obj\Debug\databaseprc.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\databaseprc\databaseprc\obj\Debug\databaseprc.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\databaseprc\databaseprc\obj\Debug\databaseprc.exe
+C:\Users\muham\OneDrive\Desktop\DPÜ\masaüstü\databaseprc\databaseprc\obj\Debug\databaseprc.pdb
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\databaseprc.exe.config
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\databaseprc.exe
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\databaseprc.pdb
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\obj\Debug\databaseprc.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\obj\Debug\databaseprc.Form1.resources
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\obj\Debug\databaseprc.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\obj\Debug\databaseprc.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\obj\Debug\databaseprc.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\obj\Debug\databaseprc.exe
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\obj\Debug\databaseprc.pdb
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.barcodes.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.commons.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.forms.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.io.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.kernel.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.layout.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.pdfa.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.pdfua.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.sign.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.styledxmlparser.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.svg.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itextsharp.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Buffers.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Memory.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.ValueTuple.dll
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.barcodes.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.commons.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.forms.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.io.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.kernel.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.layout.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.pdfa.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.pdfua.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.sign.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.styledxmlparser.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itext.svg.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\itextsharp.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Buffers.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Memory.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\bin\Debug\System.ValueTuple.xml
+C:\Users\muham\OneDrive\Desktop\DPÜ\2.sınıf\görsel programlama\databaseprc\databaseprc\obj\Debug\database.936F8479.Up2Date
