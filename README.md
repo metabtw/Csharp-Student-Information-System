@@ -1,2 +1,2 @@
-# c--Student-Information-System
+# C#-Student-Information-System
 Student Information System
